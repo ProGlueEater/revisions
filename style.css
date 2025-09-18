@@ -1,0 +1,28 @@
+/*ici stylesheeeeet*/
+
+*{ 
+    font-family: sans-serif;
+}
+nav{
+    padding: 20px;
+
+    display: flex;
+    justify-content: right;
+    background-color: blue;
+    border-radius: 30px;
+}
+nav a{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: aqua;
+    background-color: black;
+}
+
+nav a:hover{
+
+    color: red;
+
+}
