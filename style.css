@@ -3,15 +3,27 @@
 *{ 
     font-family: sans-serif;
 }
+.navbar{
+    display: flex;
+    width: 100px;
+    align-items: center;
+    color: blue;
+}
+.logo{
+
+    height: 300px;
+
+}
 nav{
     padding: 20px;
 
     display: flex;
     justify-content: right;
-    background-color: blue;
+    
     border-radius: 30px;
 }
 nav a{
+    
     padding-left: 10px;
     padding-right: 10px;
     margin: 10px;
